@@ -1,0 +1,12 @@
+# SO
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# editores
+.vscode/
+.idea/
+*.swp
+
+# resultados exportados pelo simulado
+simulado-aif-c01-*.json
