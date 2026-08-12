@@ -2,11 +2,17 @@
 
 Este repositório é o registro do caminho que eu fiz para a **AWS Certified AI Practitioner**, com o material que produzi no meio do caminho já pronto para você usar.
 
+### 👉 [Abrir o simulado agora](https://dioaugust.github.io/aws-ai-practitioner-aif-c01/)
+
+100 questões inéditas em PT-BR, direto no navegador. Não precisa baixar nem instalar nada.
+
+---
+
 Tem três coisas aqui:
 
 | Arquivo | O que é |
 |---|---|
-| [`index.html`](index.html) | Simulado interativo com **100 questões inéditas em PT-BR**, na proporção oficial dos domínios. Abre no navegador, sem instalar nada. |
+| [`index.html`](index.html) | Simulado interativo com **100 questões inéditas em PT-BR**, na proporção oficial dos domínios. Roda no navegador, sem instalar nada. |
 | [`edital.md`](edital.md) | O exam guide oficial destrinchado: formato, pesos, task statements e a lista dos serviços que mais aparecem. |
 | Este README | A trilha de estudo, incluindo o que fazer se você só estuda em português. |
 
@@ -67,9 +73,9 @@ Curso completo em português, cobrindo o edital do AIF-C01. Dá para fazer a tri
 
 ## O simulado
 
-Baixe o repositório pelo botão **Code → Download ZIP** (ou `git clone` da URL desta página) e abra o `index.html` no navegador.
+A forma mais rápida é abrir direto: **https://dioaugust.github.io/aws-ai-practitioner-aif-c01/** — funciona no computador e no celular.
 
-É um arquivo único, sem build, sem servidor, sem dependência — depois de baixado **funciona offline**. Dá para abrir no celular também.
+Se preferir ter o arquivo, baixe pelo botão **Code → Download ZIP** e abra o `index.html`. É um arquivo único, sem build, sem servidor, sem dependência: depois de baixado **funciona offline**, o que ajuda para estudar no transporte ou em qualquer lugar sem internet.
 
 ### Modos
 
