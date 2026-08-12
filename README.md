@@ -67,11 +67,9 @@ Curso completo em português, cobrindo o edital do AIF-C01. Dá para fazer a tri
 
 ## O simulado
 
-Baixe o repositório e abra o `index.html` no navegador. É um arquivo único, sem build, sem servidor, sem dependência — funciona offline.
+Baixe o repositório pelo botão **Code → Download ZIP** (ou `git clone` da URL desta página) e abra o `index.html` no navegador.
 
-```bash
-git clone https://github.com/SEU-USUARIO/aws-ai-practitioner.git
-```
+É um arquivo único, sem build, sem servidor, sem dependência — depois de baixado **funciona offline**. Dá para abrir no celular também.
 
 ### Modos
 
