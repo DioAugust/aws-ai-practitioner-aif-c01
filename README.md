@@ -6,6 +6,8 @@ Este repositório é o registro do caminho que eu fiz para a **AWS Certified AI 
 
 100 questões inéditas em PT-BR, direto no navegador. Não precisa baixar nem instalar nada.
 
+> **Até 30/09/2026:** o cupom `AIF2CLOUD` derruba o exame de USD 100 para USD 50 e, se você passar, a **Cloud Practitioner vem de graça**. [Detalhes e regras ↓](#promo)
+
 ---
 
 Tem três coisas aqui:
@@ -26,13 +28,44 @@ Tem três coisas aqui:
 | Duração | 90 minutos |
 | Nota de corte | 700 de 1000 (escala 100–1000) |
 | Modelo de nota | compensatório — passa pelo total, não domínio a domínio |
-| Custo | USD 100 |
+| Custo | USD 100 — **USD 50 com o cupom abaixo** |
 | Nível | Foundational |
 | Aplicação | Pearson VUE ou online proctored |
 
 Pesos dos domínios: **D1** Fundamentals of AI and ML 20% · **D2** Fundamentals of Generative AI 24% · **D3** Applications of Foundation Models 28% · **D4** Responsible AI 14% · **D5** Security, Compliance and Governance 14%.
 
 O perfil da prova é de quem **usa** IA na AWS, não de quem constrói. Não cai código, feature engineering, hyperparameter tuning nem matemática. Cai saber qual serviço resolve qual problema.
+
+---
+
+<a id="promo"></a>
+
+## 💸 Antes de qualquer coisa: 50% de desconto e uma segunda certificação de graça
+
+A AWS está com a promoção **AI & Cloud Foundational Certifications**, e ela muda a conta inteira. Vale conferir antes de comprar o exame.
+
+**Página oficial da promoção → https://www.pearsonvue.com/us/en/aws/aif2cloud.html**
+
+Como funciona:
+
+1. **Aplique o código `AIF2CLOUD`** no pagamento, na hora de registrar o AIF-C01. O exame cai de **USD 100 para USD 50**.
+2. **Passe no AIF-C01 até 30 de setembro de 2026.** Registro e realização da prova precisam acontecer dentro da janela, que começou em 26 de maio de 2026.
+3. **Você recebe automaticamente um voucher grátis** para a **AWS Certified Cloud Practitioner (CLF-C02)** — sem precisar de outro código.
+4. **Faça a CLF-C02 até 30 de novembro de 2026** para usar o voucher.
+
+Ou seja: **duas certificações AWS por USD 50**, em vez de USD 200 pelas duas no preço cheio.
+
+Restrições que importam: uma por pessoa/conta, não acumula com outras promoções, exige 18 anos ou mais e há países excluídos. As regras completas estão na página da Pearson VUE.
+
+> ⚠️ **Promoção com prazo.** Se você está lendo isto depois de **30 de setembro de 2026** (ou de 30 de novembro de 2026 para o voucher da CLF-C02), a janela fechou. Confira a página oficial acima e a [central de certificações da AWS](https://aws.amazon.com/pt/certification/) — a AWS costuma rodar promoções novas, e quem já é certificado normalmente ganha um voucher de 50% na conta de certificação para a prova seguinte.
+
+### Onde agendar
+
+O agendamento sai pela sua **AWS Certification Account**, acessível pela central oficial:
+
+**https://aws.amazon.com/pt/certification/**
+
+De lá você escolhe entre centro de testes Pearson VUE e prova online com proctoring, e aplica o cupom no pagamento. Um detalhe da prova online: ela exige uma mesa limpa, documento com foto e um ambiente sem interrupções — se sua casa não colabora, o centro de testes evita dor de cabeça.
 
 ---
 
@@ -105,6 +138,7 @@ O resultado também sai em `.json` para você comparar tentativas ao longo do te
 - **Decorar a tabela de serviços.** Boa parte da prova é "qual serviço faz X". A lista está no fim do [`edital.md`](edital.md).
 - **Não subestimar D4 e D5.** São 28% da prova somados, com conteúdo curto e previsível. É a nota mais barata de comprar.
 - **Sair do modo estudo cedo.** Ele vicia: você acerta lendo o gabarito, não raciocinando. Na última semana, só simulado cronometrado.
+- **Emendar a Cloud Practitioner.** Se você pegar a promoção, o voucher da CLF-C02 já está pago. O conteúdo de D5 (segurança, IAM, compliance) tem sobreposição grande com a Cloud Practitioner — fazer as duas em sequência aproveita o estudo ainda fresco.
 
 ---
 
