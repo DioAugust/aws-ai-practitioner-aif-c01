@@ -77,7 +77,7 @@ De lá você escolhe entre centro de testes Pearson VUE e prova online com proct
 
 Foi o material principal da minha preparação. O plano gratuito dá acesso ao conteúdo do curso e a **1 simulado**. Foi mais do que suficiente para montar a base.
 
-O detalhe importante: **é tudo em inglês.** Se inglês técnico não te trava, comece por aqui.
+O detalhe importante: **é tudo em inglês.** Se inglês técnico não te trava, comece por aqui. Se trava, pule para [as opções em português](#se-você-só-estuda-em-português) — tem uma gratuita.
 
 ### 2. Ler o edital com atenção
 
@@ -94,11 +94,23 @@ Depois de fechar o conteúdo, o que mais rendeu foi responder questão. Como o p
 
 ## Se você só estuda em português
 
-O ExamPro é ótimo, mas é 100% em inglês. Se isso for barreira, a alternativa que eu recomendo é este curso:
+O ExamPro é ótimo, mas é 100% em inglês. Se isso for barreira, dá para fazer a trilha inteira em PT-BR. Duas opções, uma de graça e uma paga:
+
+### Grátis — playlist do Jean Diogo no YouTube
+
+**https://www.youtube.com/playlist?list=PLK2b5y9F1DqYUkx8BUfLmf39KA6vb1dWd**
+
+Playlist **AIF-C01** do canal [Jean Diogo](https://www.youtube.com/@JeanDBS): **24 vídeos** em português, organizados em módulos, começando por Amazon Bedrock e IA generativa na AWS. Custo zero, sem cadastro, sem prazo de acesso.
+
+Se você quer testar se a certificação faz sentido para você antes de gastar qualquer coisa, comece por aqui.
+
+### Paga — curso na Udemy
 
 **https://www.udemy.com/course/certificacao-amazon-aws-ai-practitioner/**
 
-Curso completo em português, cobrindo o edital do AIF-C01. Dá para fazer a trilha inteira em PT-BR: curso na Udemy → `edital.md` daqui → simulado daqui.
+Curso completo em português cobrindo o edital do AIF-C01. Vale se você prefere um material único e linear, com estrutura de curso e suporte, em vez de montar o caminho por conta própria.
+
+Nos dois casos a trilha é a mesma: **conteúdo em PT-BR → [`edital.md`](edital.md) daqui → simulado daqui.**
 
 > Uma ressalva honesta: **a prova em si você pode fazer em português**, mas boa parte da documentação da AWS e dos nomes de serviço vive em inglês. Vale se acostumar com os termos técnicos originais (`foundation model`, `fine-tuning`, `guardrails`, `inference`) mesmo estudando em PT-BR. Por isso o simulado deste repo mantém os termos técnicos em inglês dentro de enunciados em português — é assim que a prova traduzida se comporta.
 
